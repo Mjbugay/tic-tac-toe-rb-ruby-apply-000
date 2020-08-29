@@ -154,5 +154,6 @@ def play(board)
   else
   end
  end
+end 
 
  
